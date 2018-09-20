@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("It is binary converter, please enter the number: ");
+        System.out.println("It is binary converter, please enter the number:");
 
 
         Scanner sc = new Scanner(System.in);
